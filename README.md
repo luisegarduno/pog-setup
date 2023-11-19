@@ -20,8 +20,8 @@ PogSetup is a simply a summarized list of configurations I have set for my compu
 
 
 Terminal: Bash prompt
-[oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
- - Custom Theme (will release json script soon):
+
+[oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - Custom Theme (will release custom json script soon):
      - [Left] Pink: Anaconda environent
      - [Left] Blue: Current directory
      - [Left] Green [shade #1]: Git status
