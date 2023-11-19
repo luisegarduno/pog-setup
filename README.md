@@ -22,13 +22,15 @@ PogSetup is a simply a summarized list of configurations I have set for my compu
 Terminal: Bash prompt
 
 [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - Custom Theme (will release custom json script soon):
-     - [Left] Pink: Anaconda environent
-     - [Left] Blue: Current directory
-     - [Left] Green [shade #1]: Git status
-     - [Left] Green [shade #2]: Node version
-     - [Right] Heart: Command passes (green) / fails (red) tests
-     - [Right] OS icon
-     - [Right] Spotify song playing
+- Left
+  - Pink: Anaconda environent
+  - Blue: Current directory
+  - Green [shade #1]: Git status
+  - Green [shade #2]: Node version
+- Right
+  - Heart: Command passes (green) / fails (red) tests
+  - OS icon
+  - Spotify song playing
 
 ## Vim
 Plugin manager: [Vundle](https://github.com/VundleVim/Vundle.vim)
