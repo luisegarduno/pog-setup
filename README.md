@@ -11,9 +11,24 @@ PogSetup is a simply a summarized list of configurations I have set for my compu
 - Operating System: Ubuntu 20.04
 - [Chicago95](https://github.com/grassmunk/Chicago95): Window95 theme
 
+![image](https://github.com/luisegarduno/pog-setup/assets/30121656/ea08aad9-220c-4454-ac52-5464cafd9dfe)
+
+
+
 ## Terminal
+![image](https://github.com/luisegarduno/pog-setup/assets/30121656/5c8dc1c9-6edc-4075-9437-e77456883271)
+
+
 Terminal: Bash prompt
-- @JanDeDobbeleer's [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+[oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+ - Custom Theme (will release json script soon):
+     - [Left] Pink: Anaconda environent
+     - [Left] Blue: Current directory
+     - [Left] Green [shade #1]: Git status
+     - [Left] Green [shade #2]: Node version
+     - [Right] Heart: Command passes (green) / fails (red) tests
+     - [Right] OS icon
+     - [Right] Spotify song playing
 
 ## Vim
 Plugin manager: [Vundle](https://github.com/VundleVim/Vundle.vim)
