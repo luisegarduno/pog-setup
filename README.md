@@ -2,10 +2,14 @@
 PogSetup is a simply a summarized list of configurations I have set for my computer (development/security)
 
 ## Table of Contents
+  - [Operating System](#operating-system)
   - [Terminal](#terminal)
   - [Vim](#vim)
   - [Browser](#browser)
 
+## Operating System
+- Operating System: Ubuntu 20.04
+- [Chicago95](https://github.com/grassmunk/Chicago95): Window95 theme
 
 ## Terminal
 Terminal: Bash prompt
