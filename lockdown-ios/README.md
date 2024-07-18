@@ -19,5 +19,5 @@ Within this folder are the "Advanced curated lists" that you must now pay for:
 - [ ] Junes Journey Trackers
 - [X] [Marketing Trackers II](https://github.com/luisegarduno/pog-setup/blob/main/lockdown-ios/Marketing_Trackers_II.csv)
 - [ ] Scams
-- [ ] Snapchat Trackers
+- [X] [Snapchat Trackers](https://github.com/luisegarduno/pog-setup/blob/main/lockdown-ios/Snapchat_Trackers.csv)
 - [ ] Tiktok Trackers
