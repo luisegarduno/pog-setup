@@ -9,3 +9,5 @@ Previously, when the application was fully free, the application would consistan
 The user would have access to **ALL** of them. However, now you must now pay for them :(
 
 Within this folder are the "Advanced curated lists" that you must now pay for.
+
+> Open Source: Since firewalls have access to *everything* you do, it's critical that any firewall you use should be open source. **Lockdown is 100% open source**.
