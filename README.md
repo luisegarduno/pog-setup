@@ -39,7 +39,14 @@ Color Scheme: [Primary](https://vimawesome.com/plugin/vim-colorscheme-primary)
 
 ![PrimaryDark](https://github.com/google/vim-colorscheme-primary/raw/master//screenshots/dark.png?raw=true)
 
-Extensions:
+[Vundle Extensions](https://vimawesome.com/):
+- [vim-wakatime](https://vimawesome.com/plugin/vim-wakatime): Track tracking + Metrics generated from your programming activity
+- [vim-airline](https://vimawesome.com/plugin/vim-airline-superman): lean & mean status/tabline for vim that's light as air
+- [vim-airline-themes](https://vimawesome.com/plugin/vim-airline-themes): A collection of themes for vim-airline
+- [vim-syntastic](https://vimawesome.com/plugin/syntastic-care-of-itself): Syntax checking hacks for vim
+- [vim-virtualenv](https://vimawesome.com/plugin/vim-virtualenv-the-thing-itself): Vim plugin for working with python virtualenv
+- [rainbow_parentheses](https://vimawesome.com/plugin/rainbow-parentheses-vim): Better Rainbow Parenthesis
+- [vim-indent-guides](https://vimawesome.com/plugin/indent-guides): Helps visually display indent levels in code
 
 
 ## Browser
