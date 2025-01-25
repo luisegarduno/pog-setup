@@ -1,6 +1,6 @@
 # Lockdown-IOS
 
-One of my favorite IOS apps is/was [Lockdown](https://apps.apple.com/us/app/lockdown-privacy-adblock-vpn/id1469783711), which in summary trackers on my iPhone.
+One of my favorite IOS apps is/was [Lockdown](https://apps.apple.com/us/app/lockdown-privacy-adblock-vpn/id1469783711), which in summary blocks trackers on my iPhone.
 Another key point as to why I liked it so heavily is because it was open-source ([GitHub](https://github.com/confirmedcode/Lockdown-iOS)).
 
 > Open Source: Since firewalls have access to *everything* you do, it's critical that any firewall you use should be open source. **Lockdown is 100% open source**.
