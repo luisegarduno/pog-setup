@@ -7,7 +7,7 @@ PogSetup is a simply a summarized list of configurations I have set for my compu
   - [Vim](#vim)
   - [Browser](#browser)
 
-## Operating System
+### Operating System
 - Operating System: Ubuntu 20.04
 - [Chicago95](https://github.com/grassmunk/Chicago95): Window95 theme
 
@@ -15,7 +15,7 @@ PogSetup is a simply a summarized list of configurations I have set for my compu
 
 
 
-## Terminal
+### Terminal
 ![image](https://github.com/luisegarduno/pog-setup/assets/30121656/5c8dc1c9-6edc-4075-9437-e77456883271)
 
 
@@ -32,7 +32,7 @@ Terminal: Bash prompt
   - OS icon
   - Spotify song playing (adding [feature](https://github.com/JanDeDobbeleer/oh-my-posh/pull/4732#issuecomment-2041234973) to ubuntu to oh-my-posh)
 
-## Vim
+### Vim
 Plugin manager: [Vundle](https://github.com/VundleVim/Vundle.vim)
 
 Color Scheme: [Primary](https://vimawesome.com/plugin/vim-colorscheme-primary)
@@ -49,7 +49,7 @@ Color Scheme: [Primary](https://vimawesome.com/plugin/vim-colorscheme-primary)
 - [vim-indent-guides](https://vimawesome.com/plugin/indent-guides): Helps visually display indent levels in code
 
 
-## Browser
+### Browser
 Browser: Brave
 
 Extensions:
