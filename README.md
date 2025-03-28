@@ -8,7 +8,7 @@ PogSetup is a simply a summarized list of configurations I have set for my compu
   - [Browser](#browser)
 
 ### Operating System
-- Operating System: Ubuntu 20.04
+- Operating System: Ubuntu 22.04
 - [Chicago95](https://github.com/grassmunk/Chicago95): Window95 theme
 
 ![image](https://github.com/luisegarduno/pog-setup/assets/30121656/ea08aad9-220c-4454-ac52-5464cafd9dfe)
